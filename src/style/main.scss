@@ -1,0 +1,58 @@
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem 2rem;
+    background-color: brown;
+    padding: 1rem;
+    border-radius: 3px;
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,.1), 0 1px 2px 0 rgba(0,0,0,.06);
+  }
+  .list{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 2rem;
+    padding-bottom: 1rem;
+    border:1px solid blanchedalmond;
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,.1), 0 1px 2px 0 rgba(0,0,0,.06);
+    background-color: rgba(255, 99, 71, 0.5);
+    padding: .2rem;
+  }
+  .btn{
+    background-color: aquamarine;
+    border: none;
+    border-radius: 2px;
+    font-size: .8rem;
+  }
+  .cart, .count{
+    color: antiquewhite
+  }
+  .price{
+    color: brown
+  }
+  .all{
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem 2rem;
+  
+  }
+  .total{
+    text-align: center
+  }
+  .btn-check{
+    margin: 0 auto;
+    display: block
+  }
+  .forms{
+   
+    
+    padding: 2rem;
+  }
+  .one{
+    margin: 1rem;
+  }
+  header {
+    display: flex;
+    background-color: yellowgreen;
+    justify-content: space-between
+  }
